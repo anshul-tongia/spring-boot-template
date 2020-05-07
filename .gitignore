@@ -3,3 +3,5 @@
 /.idea
 *.iml
 *.class
+api/src/main/resources/static/
+api/target
